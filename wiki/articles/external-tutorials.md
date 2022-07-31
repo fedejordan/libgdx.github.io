@@ -14,6 +14,7 @@ These are webpages where individuals or companies write about their experience w
 - [Sprite Sheets & Physics with Box2d – Tutorial by Code and Web](https://www.codeandweb.com/texturepacker/tutorials/libgdx-physics)
 - [libGDX code samples (see the sidebar)](https://libgdxinfo.wordpress.com/)
 - [Some blog posts regarding libGDX – by Rotating Canvas](https://rotatingcanvas.com/category/tutorials/)
+- [Introduction to 3D in Android with LibGDX and Kotlin](https://betterprogramming.pub/build-in-3d-for-android-using-libgdx-in-kotlin-1cbf496cae2e)
 
 ### Complete tutorial series
 - [GameDevelopment.blog – 17 parts](https://www.gamedevelopment.blog/full-libgdx-game-tutorial-flgt-home/) (2017)
